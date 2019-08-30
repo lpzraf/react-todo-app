@@ -4,7 +4,7 @@ export default function About() {
     return (
         <React.Fragment>
             <h1>About</h1>
-            <p>Built a Todo list app with React JS.</p>
+            <p>Built a Todo list app with React JS hosted in Github.io.</p>
         </React.Fragment>
     )
 }
